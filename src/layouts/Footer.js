@@ -24,15 +24,6 @@ const Footer = () => {
     return (
         <FooterContainer>
             <BlockContainer padding="35px 10px">
-                <Image src={LeftImg} margin="0 5px 0 0" cursor="pointer" />
-                <Image src={RightImg} margin="0 5px 0 0" cursor="pointer" />
-                <Image src={UpImg} margin="0 5px 0 0" cursor="pointer" />
-                <Image src={PauseImg} margin="0 5px 0 0" cursor="pointer" />
-                <Image src={PrinterImg} margin="0 5px 0 0" cursor="pointer" />
-                <Image src={ChainImg} margin="0 5px 0 0" cursor="pointer" />
-                <Image src={InfoImg} margin="0 5px 0 0" cursor="pointer" />
-                <Image src={HelpImg} margin="0 5px 0 0" cursor="pointer" />
-                <Image src={AmpImg} margin="0 5px 0 0" cursor="pointer" />
             </BlockContainer>
             <BlockContainer display="flex" justify="end" padding="5px">
                 <BlockContainer margin="auto 0 0">

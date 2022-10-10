@@ -16,7 +16,7 @@ const Header = () => {
             <Grid columns="1fr 1fr 1fr" xl_columns="1fr 1fr" md_columns="1fr">
                 <BlockContainer padding="10px 0 0">
                     <Paragraph decoration="underline" margin="0 0 15px 0">
-                        File, Edit, Tools, Help
+                        File, Edit, Tools, Help, View, Back
                     </Paragraph>
                     <Paragraph>
                         Company ID: OceanViewLLC
