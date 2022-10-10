@@ -40,13 +40,13 @@ const ControlContainer = styled(BlockContainer)`
 `;
 
 const tableData = [
-    { description: 'Courtesy Check', allowed: true, uses: true, limit: '999,999,999' },
+    { description: 'Courtesy Check', allowed: true, uses: true, limit: '90,000' },
     { description: 'CFT Updates', allowed: true, uses: true, limit: '' },
     { description: 'Electornic Bill Pay Access', allowed: true, uses: true, limit: '' },
     { description: 'Estatment Viewing ', allowed: true, uses: false, limit: '' },
     { description: 'Inter (Other) member transfer', allowed: true, uses: true, limit: '' },
-    { description: 'Intra (within) member transfer', allowed: true, uses: true, limit: '999,999,999' },
-    { description: 'Open New Wallet Accounts', allowed: true, uses: true, limit: '999,999,999' },
+    { description: 'Intra (within) member transfer', allowed: true, uses: true, limit: '20,000' },
+    { description: 'Open New Wallet Accounts', allowed: true, uses: true, limit: '10,000' },
     { description: 'Personal Information Changes', allowed: true, uses: true, limit: '' },
     { description: 'Quickbooks download', allowed: true, uses: false, limit: '' },
     { description: 'Stop Payments ', allowed: true, uses: false, limit: '' },

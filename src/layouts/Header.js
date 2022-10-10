@@ -34,7 +34,7 @@ const Header = () => {
                                 Admin Blockpay Screen
                             </Paragraph>
                             <Paragraph>
-                                Account: XYZ
+                                Account: Adminstrator (S543GFD678)
                             </Paragraph>
                         </BlockContainer>
                         <BlockContainer padding="10px">
