@@ -1,1 +1,1 @@
-SBP token presale
+Blockpay Admin Screen
